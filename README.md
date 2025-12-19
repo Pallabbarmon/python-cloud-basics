@@ -6,6 +6,7 @@ This repository contains my daily Python practice as I prepare for a Cloud/DevOp
 - Python input/output
 - Functions
 - Basic script execution
+<<<<<<< HEAD
 
 Day 2
 Lists & dictionaries
