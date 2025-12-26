@@ -1,3 +1,6 @@
+# Save name + marks
+# Print students with marks ≥ 60
+
 file = open("students.txt", "a")
 name = input("Enter student name: ")
 marks = input("Enter marks: ")
@@ -20,6 +23,6 @@ for line in lines:
             try:
                 marks = float(marks_str)
                 if marks >= 60:
-                    print(f"🎓 {name}: {marks}")
+                    print(f"{name}: {marks}")
             except:
                 pass 
