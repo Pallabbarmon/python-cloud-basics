@@ -15,3 +15,9 @@ This repository contains my daily Python practice as I prepare for a Cloud/DevOp
 ## Day 3
 - File handling
 - Saving user data to file
+
+# Day 4 - Linux & Terminal
+- Navigation commands
+- File operations
+- Permissions
+- Running scripts
